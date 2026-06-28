@@ -1,0 +1,501 @@
+Age_Group,Gender,SIP_Amount,State,City_Tier
+26-35,Male,8291,Tamil Nadu,T30
+50+,Female,2789,Delhi,B30
+18-25,Female,2992,Delhi,T30
+26-35,Female,6180,Delhi,B30
+50+,Male,2596,Maharashtra,T30
+26-35,Male,9709,Kerala,T30
+18-25,Male,7999,Delhi,T30
+26-35,Male,2068,Maharashtra,T30
+50+,Male,1345,Kerala,B30
+36-50,Male,4776,Maharashtra,B30
+18-25,Female,5385,Maharashtra,B30
+26-35,Female,1744,Maharashtra,T30
+50+,Female,5237,Delhi,B30
+36-50,Female,1415,Tamil Nadu,B30
+18-25,Female,7672,Delhi,T30
+50+,Male,974,Delhi,T30
+36-50,Male,8517,Delhi,T30
+26-35,Female,6089,Delhi,B30
+36-50,Male,5824,Kerala,T30
+36-50,Male,6399,Kerala,B30
+18-25,Male,6035,Maharashtra,B30
+18-25,Male,9133,Karnataka,T30
+36-50,Female,8634,Karnataka,T30
+36-50,Female,2904,Tamil Nadu,T30
+36-50,Male,8888,Maharashtra,T30
+26-35,Female,2886,Tamil Nadu,T30
+50+,Male,5925,Kerala,B30
+26-35,Female,8091,Delhi,T30
+26-35,Female,7484,Tamil Nadu,B30
+18-25,Female,1661,Tamil Nadu,T30
+18-25,Female,7681,Kerala,B30
+50+,Female,2593,Maharashtra,B30
+18-25,Male,6171,Delhi,B30
+18-25,Female,2661,Delhi,T30
+36-50,Female,1670,Maharashtra,B30
+18-25,Male,2789,Kerala,T30
+50+,Female,1893,Kerala,T30
+50+,Female,7100,Tamil Nadu,T30
+18-25,Male,692,Karnataka,B30
+36-50,Male,8761,Karnataka,T30
+50+,Male,3417,Kerala,T30
+36-50,Male,3440,Maharashtra,T30
+26-35,Male,4720,Maharashtra,B30
+36-50,Male,3717,Karnataka,T30
+36-50,Male,5336,Maharashtra,T30
+18-25,Male,1658,Maharashtra,T30
+36-50,Female,9214,Delhi,B30
+26-35,Male,7792,Maharashtra,T30
+36-50,Female,2813,Delhi,T30
+26-35,Male,3925,Delhi,T30
+18-25,Female,8523,Karnataka,T30
+50+,Female,3647,Delhi,B30
+36-50,Female,7036,Kerala,T30
+26-35,Female,7625,Tamil Nadu,T30
+26-35,Female,2145,Delhi,B30
+18-25,Female,6651,Kerala,T30
+36-50,Male,1187,Kerala,B30
+18-25,Male,8899,Maharashtra,T30
+50+,Male,6740,Kerala,B30
+50+,Female,7258,Maharashtra,B30
+26-35,Male,761,Kerala,B30
+18-25,Male,3630,Karnataka,T30
+26-35,Male,7996,Karnataka,T30
+36-50,Male,1111,Karnataka,T30
+26-35,Female,9430,Karnataka,B30
+50+,Female,684,Karnataka,T30
+36-50,Female,1168,Kerala,T30
+26-35,Female,6966,Delhi,B30
+18-25,Male,5360,Delhi,T30
+18-25,Male,5993,Delhi,T30
+26-35,Female,715,Karnataka,T30
+26-35,Female,9970,Karnataka,B30
+50+,Male,5137,Kerala,B30
+50+,Male,5463,Delhi,T30
+18-25,Male,5802,Maharashtra,T30
+18-25,Male,3722,Karnataka,T30
+26-35,Female,5912,Tamil Nadu,T30
+50+,Male,9445,Tamil Nadu,T30
+26-35,Female,5527,Tamil Nadu,T30
+50+,Female,9624,Kerala,T30
+18-25,Male,2982,Maharashtra,T30
+36-50,Male,9527,Karnataka,T30
+50+,Female,6337,Kerala,T30
+50+,Male,863,Delhi,T30
+36-50,Female,4274,Delhi,T30
+50+,Female,5088,Karnataka,T30
+36-50,Male,1126,Karnataka,T30
+36-50,Female,9234,Tamil Nadu,T30
+18-25,Male,6337,Maharashtra,T30
+26-35,Male,1676,Tamil Nadu,B30
+36-50,Male,956,Maharashtra,T30
+50+,Male,9868,Kerala,T30
+50+,Male,9052,Kerala,T30
+50+,Female,5281,Maharashtra,B30
+18-25,Male,8977,Kerala,B30
+50+,Female,903,Maharashtra,T30
+36-50,Female,884,Kerala,T30
+26-35,Female,2690,Delhi,T30
+18-25,Female,754,Karnataka,T30
+26-35,Female,8805,Kerala,B30
+26-35,Female,8615,Kerala,T30
+18-25,Male,8593,Delhi,B30
+26-35,Female,7292,Tamil Nadu,T30
+26-35,Female,7224,Delhi,T30
+36-50,Male,1762,Kerala,T30
+50+,Female,6293,Delhi,T30
+50+,Male,5140,Delhi,B30
+50+,Female,2005,Delhi,T30
+50+,Female,4461,Maharashtra,T30
+26-35,Female,4660,Delhi,T30
+50+,Male,9894,Delhi,B30
+26-35,Male,2962,Kerala,B30
+26-35,Female,7022,Maharashtra,B30
+36-50,Female,8122,Tamil Nadu,B30
+26-35,Male,7712,Maharashtra,T30
+26-35,Male,9236,Maharashtra,T30
+36-50,Female,3677,Maharashtra,B30
+36-50,Female,5587,Kerala,B30
+18-25,Male,4216,Karnataka,T30
+18-25,Female,2168,Kerala,T30
+26-35,Female,8747,Kerala,T30
+36-50,Male,5444,Tamil Nadu,T30
+18-25,Male,9658,Tamil Nadu,T30
+18-25,Female,2998,Tamil Nadu,T30
+36-50,Male,1831,Karnataka,T30
+26-35,Female,4047,Maharashtra,B30
+26-35,Male,4402,Karnataka,B30
+36-50,Female,7176,Maharashtra,T30
+50+,Female,3420,Karnataka,T30
+26-35,Male,4189,Kerala,T30
+36-50,Female,8045,Kerala,T30
+26-35,Male,4075,Maharashtra,T30
+50+,Female,4895,Maharashtra,T30
+18-25,Male,716,Maharashtra,T30
+50+,Male,3317,Delhi,T30
+36-50,Male,607,Tamil Nadu,T30
+26-35,Male,6997,Delhi,T30
+26-35,Male,9858,Delhi,B30
+36-50,Male,5338,Kerala,T30
+26-35,Male,6554,Kerala,T30
+18-25,Male,1947,Maharashtra,T30
+26-35,Male,1698,Kerala,T30
+18-25,Male,9919,Maharashtra,B30
+26-35,Male,5095,Delhi,T30
+18-25,Male,8999,Tamil Nadu,T30
+18-25,Male,2169,Kerala,T30
+26-35,Male,9891,Delhi,T30
+26-35,Female,4269,Maharashtra,T30
+50+,Female,7885,Kerala,T30
+36-50,Female,2899,Tamil Nadu,B30
+18-25,Female,2693,Kerala,T30
+50+,Male,2383,Maharashtra,B30
+36-50,Female,6036,Delhi,T30
+26-35,Female,8836,Delhi,T30
+36-50,Male,8767,Tamil Nadu,T30
+18-25,Male,3272,Tamil Nadu,T30
+50+,Male,9077,Delhi,B30
+50+,Female,2714,Karnataka,T30
+18-25,Female,946,Delhi,T30
+36-50,Female,4996,Maharashtra,T30
+18-25,Female,6759,Kerala,T30
+36-50,Male,9815,Karnataka,T30
+18-25,Female,2581,Delhi,T30
+36-50,Female,2963,Kerala,T30
+50+,Female,7461,Tamil Nadu,T30
+26-35,Female,1097,Delhi,T30
+18-25,Female,7386,Karnataka,B30
+50+,Male,9069,Maharashtra,T30
+18-25,Male,1382,Kerala,T30
+18-25,Male,3316,Kerala,T30
+36-50,Female,4060,Delhi,T30
+18-25,Female,3893,Maharashtra,T30
+26-35,Male,7835,Maharashtra,B30
+26-35,Female,8231,Tamil Nadu,B30
+18-25,Male,8693,Delhi,B30
+26-35,Male,2446,Kerala,T30
+18-25,Female,6325,Tamil Nadu,T30
+36-50,Female,3914,Kerala,T30
+50+,Male,1457,Tamil Nadu,T30
+36-50,Male,3775,Delhi,T30
+36-50,Female,4359,Tamil Nadu,T30
+18-25,Female,9988,Tamil Nadu,B30
+50+,Male,4192,Maharashtra,B30
+36-50,Female,2836,Maharashtra,T30
+50+,Male,4906,Kerala,T30
+26-35,Male,2750,Maharashtra,T30
+18-25,Female,2645,Delhi,T30
+26-35,Male,863,Delhi,B30
+36-50,Female,6636,Tamil Nadu,T30
+18-25,Male,2014,Kerala,T30
+26-35,Female,6478,Delhi,T30
+50+,Female,5698,Tamil Nadu,B30
+26-35,Female,9011,Kerala,T30
+50+,Female,3659,Delhi,T30
+36-50,Male,8859,Karnataka,B30
+50+,Male,2733,Tamil Nadu,T30
+36-50,Female,9286,Delhi,T30
+26-35,Male,1512,Karnataka,T30
+36-50,Male,7690,Tamil Nadu,T30
+18-25,Male,5210,Delhi,B30
+18-25,Female,6994,Tamil Nadu,B30
+26-35,Male,3921,Maharashtra,T30
+18-25,Female,2042,Karnataka,T30
+26-35,Female,7776,Kerala,T30
+50+,Female,9518,Kerala,T30
+26-35,Male,3941,Tamil Nadu,B30
+26-35,Male,7414,Tamil Nadu,T30
+26-35,Female,4707,Maharashtra,T30
+50+,Female,1621,Karnataka,T30
+36-50,Female,7168,Tamil Nadu,T30
+18-25,Male,4762,Kerala,T30
+18-25,Male,9996,Karnataka,T30
+36-50,Male,6812,Karnataka,T30
+50+,Male,6869,Maharashtra,T30
+36-50,Female,2459,Tamil Nadu,T30
+36-50,Female,9179,Karnataka,T30
+50+,Female,6978,Maharashtra,T30
+50+,Male,935,Kerala,B30
+36-50,Female,8521,Maharashtra,B30
+26-35,Male,1621,Maharashtra,T30
+50+,Male,4920,Maharashtra,T30
+50+,Female,8476,Tamil Nadu,B30
+36-50,Female,9161,Maharashtra,T30
+50+,Female,4399,Kerala,T30
+18-25,Female,3049,Karnataka,T30
+50+,Female,1775,Delhi,T30
+26-35,Male,7077,Tamil Nadu,B30
+18-25,Female,3826,Delhi,T30
+18-25,Female,5004,Maharashtra,B30
+18-25,Male,8671,Tamil Nadu,T30
+50+,Male,5945,Kerala,T30
+36-50,Female,9813,Delhi,T30
+18-25,Male,7816,Karnataka,T30
+50+,Female,9041,Kerala,T30
+50+,Female,2670,Kerala,B30
+18-25,Female,7979,Delhi,B30
+18-25,Male,758,Karnataka,B30
+36-50,Male,2952,Tamil Nadu,T30
+18-25,Female,7878,Kerala,B30
+36-50,Male,2502,Tamil Nadu,B30
+26-35,Female,676,Kerala,B30
+18-25,Female,2103,Maharashtra,T30
+36-50,Female,8978,Kerala,T30
+26-35,Female,6590,Tamil Nadu,T30
+18-25,Male,5054,Karnataka,T30
+26-35,Male,5540,Delhi,T30
+18-25,Female,5367,Karnataka,B30
+18-25,Male,4208,Kerala,T30
+50+,Male,6339,Tamil Nadu,T30
+26-35,Male,7084,Maharashtra,T30
+50+,Male,2859,Karnataka,T30
+26-35,Female,2809,Maharashtra,T30
+36-50,Male,3495,Delhi,T30
+18-25,Female,8474,Maharashtra,T30
+26-35,Male,4706,Delhi,B30
+36-50,Male,9788,Maharashtra,T30
+50+,Male,2133,Kerala,B30
+18-25,Female,8472,Maharashtra,T30
+18-25,Female,2161,Karnataka,T30
+50+,Female,1487,Karnataka,T30
+50+,Female,3621,Karnataka,T30
+26-35,Female,5374,Delhi,T30
+50+,Female,8385,Delhi,T30
+50+,Female,8431,Kerala,T30
+50+,Male,3343,Delhi,T30
+26-35,Male,7215,Kerala,B30
+50+,Male,1074,Maharashtra,T30
+26-35,Female,3760,Tamil Nadu,B30
+18-25,Female,5609,Karnataka,T30
+50+,Male,6282,Karnataka,B30
+26-35,Female,6578,Kerala,B30
+26-35,Female,7813,Delhi,B30
+36-50,Male,9893,Maharashtra,T30
+26-35,Male,646,Kerala,T30
+36-50,Male,3291,Karnataka,B30
+26-35,Male,8962,Kerala,T30
+26-35,Female,515,Tamil Nadu,T30
+36-50,Female,3463,Tamil Nadu,T30
+18-25,Male,4083,Tamil Nadu,B30
+18-25,Male,4742,Maharashtra,T30
+18-25,Male,7098,Tamil Nadu,T30
+36-50,Female,8070,Maharashtra,T30
+50+,Female,6307,Kerala,T30
+26-35,Female,1531,Maharashtra,T30
+36-50,Male,8704,Karnataka,T30
+50+,Male,1725,Delhi,T30
+50+,Male,9350,Tamil Nadu,B30
+18-25,Female,4445,Delhi,T30
+50+,Female,8532,Kerala,T30
+36-50,Male,5585,Maharashtra,T30
+36-50,Female,4118,Maharashtra,T30
+18-25,Male,6587,Delhi,T30
+26-35,Female,1891,Kerala,T30
+26-35,Male,6412,Delhi,B30
+18-25,Female,3677,Karnataka,T30
+26-35,Female,2918,Tamil Nadu,B30
+50+,Female,2657,Tamil Nadu,T30
+18-25,Male,7658,Maharashtra,T30
+50+,Female,2878,Kerala,T30
+50+,Female,6922,Kerala,T30
+26-35,Female,2720,Maharashtra,T30
+18-25,Female,3700,Kerala,T30
+36-50,Male,8612,Kerala,B30
+36-50,Male,745,Tamil Nadu,T30
+36-50,Male,6799,Karnataka,B30
+18-25,Female,1108,Karnataka,T30
+50+,Female,851,Maharashtra,T30
+50+,Female,8984,Karnataka,T30
+36-50,Female,8389,Karnataka,B30
+50+,Female,4026,Tamil Nadu,T30
+36-50,Female,8119,Karnataka,T30
+26-35,Male,2110,Karnataka,T30
+36-50,Female,4675,Karnataka,T30
+18-25,Male,4127,Delhi,B30
+50+,Male,7745,Karnataka,T30
+18-25,Male,5507,Delhi,T30
+36-50,Female,935,Tamil Nadu,B30
+26-35,Female,8393,Karnataka,B30
+36-50,Male,4357,Kerala,T30
+50+,Male,3760,Delhi,T30
+18-25,Male,2316,Karnataka,B30
+36-50,Female,8903,Kerala,T30
+26-35,Female,3280,Maharashtra,T30
+36-50,Male,9176,Delhi,T30
+18-25,Female,7872,Tamil Nadu,T30
+50+,Male,7096,Maharashtra,B30
+18-25,Female,3033,Kerala,T30
+26-35,Male,9526,Delhi,B30
+26-35,Male,7342,Delhi,B30
+26-35,Male,2547,Karnataka,T30
+50+,Male,6056,Maharashtra,T30
+18-25,Female,2969,Karnataka,B30
+50+,Female,1661,Tamil Nadu,T30
+36-50,Female,7880,Maharashtra,T30
+26-35,Male,3666,Delhi,T30
+50+,Female,3108,Kerala,T30
+26-35,Male,8434,Tamil Nadu,T30
+36-50,Male,2323,Karnataka,B30
+36-50,Female,4880,Karnataka,B30
+50+,Male,877,Tamil Nadu,B30
+26-35,Male,7092,Maharashtra,T30
+50+,Female,9433,Tamil Nadu,T30
+50+,Female,9476,Maharashtra,B30
+36-50,Male,1060,Tamil Nadu,T30
+50+,Male,6343,Tamil Nadu,T30
+50+,Female,2935,Delhi,T30
+26-35,Male,1720,Maharashtra,T30
+26-35,Female,623,Tamil Nadu,B30
+26-35,Male,7996,Karnataka,B30
+36-50,Male,4673,Karnataka,T30
+26-35,Female,6402,Maharashtra,T30
+36-50,Female,6779,Tamil Nadu,T30
+50+,Male,7991,Maharashtra,T30
+18-25,Female,9062,Tamil Nadu,T30
+50+,Female,4749,Delhi,B30
+36-50,Male,5012,Kerala,T30
+36-50,Male,9737,Karnataka,T30
+50+,Male,4851,Maharashtra,T30
+18-25,Male,5584,Karnataka,B30
+50+,Male,2104,Tamil Nadu,T30
+18-25,Male,1353,Karnataka,T30
+26-35,Male,8726,Tamil Nadu,T30
+18-25,Male,5803,Maharashtra,T30
+50+,Female,9938,Kerala,T30
+36-50,Female,1649,Delhi,B30
+26-35,Male,8502,Delhi,B30
+26-35,Female,7866,Karnataka,T30
+18-25,Female,5405,Maharashtra,T30
+18-25,Female,4141,Maharashtra,B30
+18-25,Male,7655,Delhi,T30
+50+,Male,9944,Tamil Nadu,T30
+26-35,Male,2769,Delhi,B30
+26-35,Male,7379,Karnataka,T30
+18-25,Male,5459,Delhi,T30
+50+,Female,8419,Tamil Nadu,T30
+26-35,Male,4019,Karnataka,T30
+26-35,Male,7107,Tamil Nadu,T30
+26-35,Female,5636,Kerala,B30
+26-35,Male,1941,Karnataka,T30
+26-35,Male,1022,Tamil Nadu,B30
+36-50,Female,5591,Delhi,T30
+26-35,Female,8657,Kerala,B30
+18-25,Female,5248,Tamil Nadu,T30
+26-35,Female,9355,Delhi,T30
+26-35,Female,7957,Kerala,T30
+18-25,Female,9851,Maharashtra,T30
+36-50,Male,3818,Maharashtra,B30
+18-25,Female,6853,Kerala,B30
+18-25,Female,9594,Tamil Nadu,T30
+18-25,Female,1508,Tamil Nadu,B30
+50+,Female,6177,Karnataka,T30
+26-35,Male,7881,Tamil Nadu,B30
+26-35,Female,9914,Tamil Nadu,T30
+26-35,Male,8818,Maharashtra,B30
+18-25,Female,7391,Maharashtra,T30
+26-35,Male,8437,Tamil Nadu,T30
+50+,Male,9744,Delhi,B30
+36-50,Male,1358,Maharashtra,B30
+26-35,Female,5083,Tamil Nadu,T30
+26-35,Female,3909,Maharashtra,T30
+18-25,Female,6573,Tamil Nadu,B30
+36-50,Female,5303,Kerala,T30
+36-50,Female,816,Maharashtra,T30
+36-50,Female,3899,Tamil Nadu,B30
+26-35,Female,5166,Maharashtra,T30
+36-50,Male,803,Delhi,T30
+18-25,Female,2428,Kerala,B30
+36-50,Male,2949,Tamil Nadu,T30
+26-35,Male,5925,Kerala,T30
+36-50,Male,2377,Tamil Nadu,B30
+36-50,Male,1248,Kerala,B30
+18-25,Female,3774,Kerala,T30
+36-50,Female,3726,Karnataka,T30
+26-35,Male,9107,Tamil Nadu,B30
+50+,Female,7221,Maharashtra,T30
+26-35,Female,721,Maharashtra,T30
+36-50,Male,8457,Maharashtra,T30
+18-25,Female,4430,Kerala,T30
+18-25,Female,3262,Delhi,T30
+26-35,Female,8576,Maharashtra,B30
+18-25,Male,6786,Kerala,T30
+36-50,Male,9699,Maharashtra,T30
+50+,Male,1156,Karnataka,B30
+18-25,Female,3866,Kerala,B30
+50+,Male,5706,Tamil Nadu,B30
+18-25,Male,6647,Kerala,T30
+26-35,Female,5036,Karnataka,T30
+36-50,Male,2050,Tamil Nadu,T30
+50+,Female,5790,Maharashtra,B30
+50+,Female,1391,Kerala,T30
+26-35,Male,3833,Karnataka,B30
+18-25,Female,7629,Tamil Nadu,T30
+26-35,Female,8622,Delhi,T30
+50+,Female,1865,Kerala,B30
+18-25,Male,1553,Kerala,T30
+26-35,Female,6356,Maharashtra,T30
+50+,Female,9400,Delhi,T30
+50+,Female,8993,Maharashtra,T30
+18-25,Male,7613,Delhi,T30
+26-35,Female,3816,Tamil Nadu,T30
+18-25,Female,6500,Tamil Nadu,T30
+36-50,Male,6653,Kerala,T30
+26-35,Male,8180,Kerala,T30
+18-25,Female,2541,Tamil Nadu,T30
+18-25,Male,5344,Delhi,T30
+36-50,Female,1895,Maharashtra,B30
+18-25,Male,8274,Tamil Nadu,T30
+26-35,Male,4778,Tamil Nadu,T30
+36-50,Female,9380,Karnataka,T30
+26-35,Female,3754,Kerala,B30
+26-35,Male,7881,Delhi,T30
+18-25,Female,9500,Maharashtra,T30
+18-25,Male,3754,Karnataka,T30
+26-35,Female,3517,Karnataka,T30
+50+,Female,9149,Tamil Nadu,B30
+18-25,Female,1218,Kerala,T30
+26-35,Male,6200,Tamil Nadu,T30
+18-25,Female,6501,Karnataka,T30
+26-35,Male,3230,Karnataka,B30
+18-25,Female,3012,Maharashtra,T30
+36-50,Female,9797,Tamil Nadu,B30
+50+,Female,812,Tamil Nadu,B30
+26-35,Male,3512,Delhi,B30
+18-25,Male,4475,Maharashtra,B30
+36-50,Male,3243,Kerala,T30
+26-35,Female,1121,Tamil Nadu,T30
+50+,Male,3534,Tamil Nadu,T30
+50+,Male,4711,Kerala,T30
+50+,Female,3850,Maharashtra,T30
+36-50,Male,4124,Tamil Nadu,T30
+36-50,Female,8778,Kerala,T30
+36-50,Female,1748,Delhi,T30
+50+,Female,3561,Tamil Nadu,T30
+36-50,Female,2874,Kerala,B30
+50+,Female,8827,Karnataka,T30
+26-35,Male,6245,Tamil Nadu,B30
+26-35,Male,7624,Delhi,T30
+26-35,Male,861,Kerala,T30
+18-25,Male,3844,Kerala,T30
+50+,Female,2342,Tamil Nadu,T30
+36-50,Male,5173,Karnataka,T30
+50+,Male,5897,Kerala,T30
+50+,Female,3603,Kerala,T30
+18-25,Female,7652,Karnataka,T30
+36-50,Female,7052,Delhi,B30
+18-25,Female,635,Tamil Nadu,T30
+18-25,Male,6612,Tamil Nadu,T30
+26-35,Female,1586,Tamil Nadu,T30
+50+,Male,8208,Maharashtra,T30
+36-50,Male,708,Tamil Nadu,T30
+26-35,Male,6304,Karnataka,B30
+18-25,Male,1013,Tamil Nadu,T30
+18-25,Female,3546,Delhi,T30
+26-35,Male,5859,Maharashtra,T30
+26-35,Male,7901,Karnataka,B30
+26-35,Female,2893,Karnataka,T30
+26-35,Male,5586,Delhi,T30
+26-35,Female,1533,Tamil Nadu,B30
+36-50,Female,1695,Maharashtra,T30
+50+,Female,7870,Maharashtra,B30

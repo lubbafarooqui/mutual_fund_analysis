@@ -1,0 +1,241 @@
+Month,Category,Net_Inflow
+Jan-2022,Large Cap,1846
+Jan-2022,Mid Cap,470
+Jan-2022,Small Cap,-156
+Jan-2022,Hybrid,344
+Jan-2022,Debt,921
+Feb-2022,Large Cap,-460
+Feb-2022,Mid Cap,961
+Feb-2022,Small Cap,273
+Feb-2022,Hybrid,2105
+Feb-2022,Debt,-296
+Mar-2022,Large Cap,396
+Mar-2022,Mid Cap,296
+Mar-2022,Small Cap,1241
+Mar-2022,Hybrid,2438
+Mar-2022,Debt,-91
+Apr-2022,Large Cap,354
+Apr-2022,Mid Cap,2375
+Apr-2022,Small Cap,1433
+Apr-2022,Hybrid,109
+Apr-2022,Debt,1826
+May-2022,Large Cap,2249
+May-2022,Mid Cap,1301
+May-2022,Small Cap,1551
+May-2022,Hybrid,-462
+May-2022,Debt,2172
+Jun-2022,Large Cap,981
+Jun-2022,Mid Cap,355
+Jun-2022,Small Cap,45
+Jun-2022,Hybrid,739
+Jun-2022,Debt,-381
+Jul-2022,Large Cap,-220
+Jul-2022,Mid Cap,2495
+Jul-2022,Small Cap,1818
+Jul-2022,Hybrid,652
+Jul-2022,Debt,1397
+Aug-2022,Large Cap,-125
+Aug-2022,Mid Cap,2452
+Aug-2022,Small Cap,-186
+Aug-2022,Hybrid,1689
+Aug-2022,Debt,628
+Sep-2022,Large Cap,513
+Sep-2022,Mid Cap,298
+Sep-2022,Small Cap,227
+Sep-2022,Hybrid,3
+Sep-2022,Debt,-448
+Oct-2022,Large Cap,458
+Oct-2022,Mid Cap,-257
+Oct-2022,Small Cap,1941
+Oct-2022,Hybrid,117
+Oct-2022,Debt,694
+Nov-2022,Large Cap,838
+Nov-2022,Mid Cap,855
+Nov-2022,Small Cap,366
+Nov-2022,Hybrid,-137
+Nov-2022,Debt,2305
+Dec-2022,Large Cap,1826
+Dec-2022,Mid Cap,-415
+Dec-2022,Small Cap,2006
+Dec-2022,Hybrid,1337
+Dec-2022,Debt,700
+Jan-2023,Large Cap,2210
+Jan-2023,Mid Cap,1943
+Jan-2023,Small Cap,2344
+Jan-2023,Hybrid,1764
+Jan-2023,Debt,2147
+Feb-2023,Large Cap,70
+Feb-2023,Mid Cap,-144
+Feb-2023,Small Cap,1226
+Feb-2023,Hybrid,1064
+Feb-2023,Debt,1550
+Mar-2023,Large Cap,1386
+Mar-2023,Mid Cap,-412
+Mar-2023,Small Cap,890
+Mar-2023,Hybrid,1610
+Mar-2023,Debt,1826
+Apr-2023,Large Cap,258
+Apr-2023,Mid Cap,-68
+Apr-2023,Small Cap,609
+Apr-2023,Hybrid,1256
+Apr-2023,Debt,1519
+May-2023,Large Cap,1624
+May-2023,Mid Cap,1166
+May-2023,Small Cap,1145
+May-2023,Hybrid,1953
+May-2023,Debt,-132
+Jun-2023,Large Cap,1792
+Jun-2023,Mid Cap,1941
+Jun-2023,Small Cap,643
+Jun-2023,Hybrid,2324
+Jun-2023,Debt,323
+Jul-2023,Large Cap,1474
+Jul-2023,Mid Cap,2462
+Jul-2023,Small Cap,1363
+Jul-2023,Hybrid,-468
+Jul-2023,Debt,2463
+Aug-2023,Large Cap,302
+Aug-2023,Mid Cap,-122
+Aug-2023,Small Cap,990
+Aug-2023,Hybrid,957
+Aug-2023,Debt,642
+Sep-2023,Large Cap,601
+Sep-2023,Mid Cap,277
+Sep-2023,Small Cap,-178
+Sep-2023,Hybrid,2434
+Sep-2023,Debt,1709
+Oct-2023,Large Cap,487
+Oct-2023,Mid Cap,1330
+Oct-2023,Small Cap,-283
+Oct-2023,Hybrid,2469
+Oct-2023,Debt,2382
+Nov-2023,Large Cap,1637
+Nov-2023,Mid Cap,388
+Nov-2023,Small Cap,-371
+Nov-2023,Hybrid,-489
+Nov-2023,Debt,326
+Dec-2023,Large Cap,904
+Dec-2023,Mid Cap,-469
+Dec-2023,Small Cap,1598
+Dec-2023,Hybrid,-121
+Dec-2023,Debt,-234
+Jan-2024,Large Cap,1323
+Jan-2024,Mid Cap,971
+Jan-2024,Small Cap,1464
+Jan-2024,Hybrid,986
+Jan-2024,Debt,-447
+Feb-2024,Large Cap,17
+Feb-2024,Mid Cap,1317
+Feb-2024,Small Cap,1555
+Feb-2024,Hybrid,817
+Feb-2024,Debt,2195
+Mar-2024,Large Cap,862
+Mar-2024,Mid Cap,1928
+Mar-2024,Small Cap,948
+Mar-2024,Hybrid,1404
+Mar-2024,Debt,121
+Apr-2024,Large Cap,388
+Apr-2024,Mid Cap,2155
+Apr-2024,Small Cap,747
+Apr-2024,Hybrid,2001
+Apr-2024,Debt,2300
+May-2024,Large Cap,1865
+May-2024,Mid Cap,832
+May-2024,Small Cap,454
+May-2024,Hybrid,872
+May-2024,Debt,1136
+Jun-2024,Large Cap,1277
+Jun-2024,Mid Cap,393
+Jun-2024,Small Cap,1898
+Jun-2024,Hybrid,2210
+Jun-2024,Debt,1533
+Jul-2024,Large Cap,2490
+Jul-2024,Mid Cap,1198
+Jul-2024,Small Cap,793
+Jul-2024,Hybrid,1100
+Jul-2024,Debt,892
+Aug-2024,Large Cap,492
+Aug-2024,Mid Cap,1596
+Aug-2024,Small Cap,1199
+Aug-2024,Hybrid,140
+Aug-2024,Debt,1375
+Sep-2024,Large Cap,2081
+Sep-2024,Mid Cap,430
+Sep-2024,Small Cap,919
+Sep-2024,Hybrid,2294
+Sep-2024,Debt,1968
+Oct-2024,Large Cap,2392
+Oct-2024,Mid Cap,1293
+Oct-2024,Small Cap,1417
+Oct-2024,Hybrid,1228
+Oct-2024,Debt,-185
+Nov-2024,Large Cap,564
+Nov-2024,Mid Cap,2478
+Nov-2024,Small Cap,739
+Nov-2024,Hybrid,-257
+Nov-2024,Debt,-27
+Dec-2024,Large Cap,1302
+Dec-2024,Mid Cap,1727
+Dec-2024,Small Cap,1727
+Dec-2024,Hybrid,2422
+Dec-2024,Debt,841
+Jan-2025,Large Cap,2250
+Jan-2025,Mid Cap,1617
+Jan-2025,Small Cap,51
+Jan-2025,Hybrid,977
+Jan-2025,Debt,-356
+Feb-2025,Large Cap,1186
+Feb-2025,Mid Cap,2373
+Feb-2025,Small Cap,-421
+Feb-2025,Hybrid,1086
+Feb-2025,Debt,2372
+Mar-2025,Large Cap,2145
+Mar-2025,Mid Cap,1179
+Mar-2025,Small Cap,-328
+Mar-2025,Hybrid,-312
+Mar-2025,Debt,2327
+Apr-2025,Large Cap,-495
+Apr-2025,Mid Cap,113
+Apr-2025,Small Cap,1283
+Apr-2025,Hybrid,1710
+Apr-2025,Debt,570
+May-2025,Large Cap,2144
+May-2025,Mid Cap,-384
+May-2025,Small Cap,1830
+May-2025,Hybrid,-362
+May-2025,Debt,-175
+Jun-2025,Large Cap,52
+Jun-2025,Mid Cap,182
+Jun-2025,Small Cap,1575
+Jun-2025,Hybrid,74
+Jun-2025,Debt,1358
+Jul-2025,Large Cap,2036
+Jul-2025,Mid Cap,952
+Jul-2025,Small Cap,216
+Jul-2025,Hybrid,-53
+Jul-2025,Debt,-44
+Aug-2025,Large Cap,1518
+Aug-2025,Mid Cap,1080
+Aug-2025,Small Cap,2013
+Aug-2025,Hybrid,694
+Aug-2025,Debt,1024
+Sep-2025,Large Cap,1230
+Sep-2025,Mid Cap,1383
+Sep-2025,Small Cap,949
+Sep-2025,Hybrid,1332
+Sep-2025,Debt,2106
+Oct-2025,Large Cap,438
+Oct-2025,Mid Cap,-379
+Oct-2025,Small Cap,162
+Oct-2025,Hybrid,597
+Oct-2025,Debt,1925
+Nov-2025,Large Cap,1905
+Nov-2025,Mid Cap,600
+Nov-2025,Small Cap,2330
+Nov-2025,Hybrid,1447
+Nov-2025,Debt,1048
+Dec-2025,Large Cap,814
+Dec-2025,Mid Cap,1677
+Dec-2025,Small Cap,1972
+Dec-2025,Hybrid,2155
+Dec-2025,Debt,-23
